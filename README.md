@@ -26,7 +26,7 @@
 
 | Overview | Preview |
 |---------|---------|
-| Trackly is your AI-powered companion for job & scholarship applications.<br><br>✔ Generates tailored answers using your documents<br>✔ Helps manage deadlines & statuses<br>✔ Keeps everything organized in one place<br><br>🔗 **Live:** https://trackly-chi.vercel.app/ | <a href="https://trackly-chi.vercel.app/"><img src="https://api.microlink.io/?url=https://trackly-chi.vercel.app/&screenshot=true&meta=false&embed=screenshot.url" width="300"/></a> |
+| Trackly is your AI-powered companion for job & scholarship applications.<br><br>✔ Generates tailored answers using your documents<br>✔ Helps manage deadlines & statuses<br>✔ Keeps everything organized in one place<br><br>🔗 **Live:** https://trackly-chi.vercel.app/ | <a href="https://trackly-chi.vercel.app/"><img src="https://api.microlink.io/?url=https://trackly-chi.vercel.app/&screenshot=true&meta=false&embed=screenshot.url&&waitForTimeout=5" width="300"/></a> |
 
 ---
 
@@ -34,7 +34,7 @@
 
 | Overview | Preview |
 |---------|---------|
-| Pactify enables seamless contract management & escrow for freelance work.<br><br>✔ Clients send contracts to freelancers<br>✔ Freelancers sign & submit work<br>✔ Stripe Connect handles the escrow release<br><br>🔗 **Live:** https://pactify-orcin.vercel.app/ | <a href="https://pactify-orcin.vercel.app/"><img src="https://api.microlink.io/?url=https://pactify-orcin.vercel.app/&screenshot=true&meta=false&embed=screenshot.url" width="300"/></a> |
+| Pactify enables seamless contract management & escrow for freelance work.<br><br>✔ Clients send contracts to freelancers<br>✔ Freelancers sign & submit work<br>✔ Stripe Connect handles the escrow release<br><br>🔗 **Live:** https://pactify-orcin.vercel.app/ | <a href="https://pactify-orcin.vercel.app/"><img src="https://api.microlink.io/?url=https://pactify-orcin.vercel.app/&screenshot=true&meta=false&embed=screenshot.url&waitForTimeout=5" width="300"/></a> |
 
 ---
 
