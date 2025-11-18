@@ -28,9 +28,9 @@
   <tr>
     <td>
       Trackly is your AI-powered companion for job & scholarship applications.<br><br>
-      ✔ Generates tailored answers using your documents<br>
-      ✔ Helps manage deadlines & statuses<br>
-      ✔ Keeps everything organized in one place<br><br>
+      - Generates tailored answers using your documents<br>
+      - Helps manage deadlines & statuses<br>
+      - Keeps everything organized in one place<br><br>
       🔗 <strong>Live:</strong>
       <a href="https://trackly-chi.vercel.app/">https://trackly-chi.vercel.app/</a>
     </td>
@@ -50,9 +50,9 @@
   <tr>
     <td>
       Pactify enables seamless contract management & escrow for freelance work.<br><br>
-      ✔ Clients send contracts to freelancers<br>
-      ✔ Freelancers sign & submit work<br>
-      ✔ Stripe Connect handles the escrow release<br><br>
+      - Clients send contracts to freelancers<br>
+      - Freelancers sign & submit work<br>
+      - Stripe Connect handles the escrow release<br><br>
       🔗 <strong>Live:</strong>
       <a href="https://pactify-orcin.vercel.app/">https://pactify-orcin.vercel.app/</a>
     </td>
@@ -73,10 +73,20 @@
 
 # GitHub Analytics
 
-<div align="center" style="display: flex; gap: 20px; justify-content: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=NajibOladosu&theme=dark&hide_border=true&include_all_commits=false&count_private=false" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=NajibOladosu&theme=dark&hide_border=true" />
-</div>
+<table>
+  <tr>
+    <td>
+      <img
+        src="https://github-readme-stats.vercel.app/api?username=NajibOladosu&theme=dark&hide_border=true&include_all_commits=false&count_private=false"
+      />
+    </td>
+    <td>
+      <img
+        src="https://nirzak-streak-stats.vercel.app/?user=NajibOladosu&theme=dark&hide_border=true"
+      />
+    </td>
+  </tr>
+</table>
 
 ---
 
