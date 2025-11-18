@@ -52,11 +52,8 @@
 ---
 
 # Top Languages
-<div align="center">
-  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=NajibOladosu&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-</div>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=NajibOladosu&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=donut-vertical&langs_count=10)
 
 ---
 
@@ -85,3 +82,7 @@
 ###  _Let’s build something people will remember._
 
 </div>
+
+## 😂 Here is a random joke that'll make you laugh!
+
+![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&bgColor=%23151515&qColor=%23fefefe&aColor=%23ef8b01)
