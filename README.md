@@ -1,9 +1,3 @@
-<!-- 
-  ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
-    Najib — GitHub Profile README
-  ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
--->
-
 # 🚀 Najib — Engineering the Future, One App at a Time  
 **_“I build AI-powered systems and seamless digital workflows that actually solve real problems.”_**
 
@@ -11,50 +5,34 @@
 
 ## 👨‍💻 About Me
 
-- Backend-first, full-stack when necessary  
-- I build products that blend **AI, payments, automation, and real user needs**  
-- Creator of **Trackly** (AI application assistant) and **Partify** (contract + escrow platform)  
-- Passionate about clean architecture, scalable backend design, and delivering real value  
+- Backend-first, full-stack when needed  
+- I build products that blend **AI, automation, payments, and real user workflows**  
+- Creator of **Trackly** and **Pactify**  
+- Passionate about clean architecture and shipping production-ready systems  
 - Writing more code than tweets — for now 😄  
 
 ---
 
 # 🚀 Featured Projects
 
-Below are **live previews** of each homepage (auto-updated screenshots).  
-Perfect for mobile — tap to open.
+Below are **side-by-side** project descriptions with **live homepage previews**  
+(fully responsive and GitHub-friendly).
 
 ---
 
-## 🎯 **Trackly**
-**AI-powered job & scholarship application assistant.**  
-It analyzes your documents, generates tailored answers, and helps you organize your applications.
+## 🎯 Trackly — AI Application Assistant
 
-🔗 **Live:** https://trackly-chi.vercel.app/
-
-### 🌐 Homepage Preview
-<p align="center">
-  <a href="https://trackly-chi.vercel.app/">
-    <img src="https://image.thum.io/get/width/1200/https://trackly-chi.vercel.app/" 
-         alt="Trackly Homepage" width="90%" style="border-radius: 12px;"/>
-  </a>
-</p>
+| Description | Homepage Preview |
+|------------|------------------|
+| Trackly is an AI-powered job & scholarship application assistant. It helps you:<br><br>• Analyze documents and generate tailored answers<br>• Track deadlines, statuses & requirements<br>• Organize job & scholarship applications in one place<br><br>🔗 **Live:** https://trackly-chi.vercel.app/ | <a href="https://trackly-chi.vercel.app/"><img src="https://api.microlink.io/?url=https://trackly-chi.vercel.app/&screenshot=true&meta=false&embed=screenshot.url" width="300px" style="border-radius:10px"/></a> |
 
 ---
 
-## 🤝 **Partify**
-**End-to-end freelance contract + escrow platform.**  
-Clients send contracts → freelancers sign → work submitted → escrow releases payment.
+## 🤝 Pactify — Contract + Escrow Platform
 
-🔗 **Live:** https://pactify-orcin.vercel.app/
-
-### 🌐 Homepage Preview
-<p align="center">
-  <a href="https://pactify-orcin.vercel.app/">
-    <img src="https://image.thum.io/get/width/1200/https://pactify-orcin.vercel.app/" 
-         alt="Partify Homepage" width="90%" style="border-radius: 12px;"/>
-  </a>
-</p>
+| Description | Homepage Preview |
+|------------|------------------|
+| Pactify is an end-to-end legal-tech platform enabling:<br><br>• Clients to send contracts to freelancers<br>• Freelancers to sign & submit project work<br>• Automated escrow releases via Stripe Connect<br><br>🔗 **Live:** https://pactify-orcin.vercel.app/ | <a href="https://pactify-orcin.vercel.app/"><img src="https://api.microlink.io/?url=https://pactify-orcin.vercel.app/&screenshot=true&meta=false&embed=screenshot.url" width="300px" style="border-radius:10px"/></a> |
 
 ---
 
@@ -65,12 +43,11 @@ Clients send contracts → freelancers sign → work submitted → escrow releas
 
 ### **Backend**
 - Python • Django • FastAPI  
-- Node.js • API design • Webhooks  
-- Stripe Connect • Secure Escrow Logic  
+- Node.js • Webhooks • REST APIs  
+- Stripe Connect • Escrow Logic  
 
 ### **Frontend**
-- React • Next.js • Tailwind  
-- Responsive UI • Modern UX patterns  
+- Next.js • React • Tailwind  
 
 ### **Databases & Infra**
 - Supabase • PostgreSQL  
@@ -78,53 +55,32 @@ Clients send contracts → freelancers sign → work submitted → escrow releas
 
 ### **AI / ML**
 - OpenAI GPT models  
-- Retrieval-based prompting  
-- Document analysis & embeddings  
+- Document embeddings & retrieval  
+- LLM-powered assistants  
 
 </details>
 
 ---
 
-# 📊 GitHub Stats (Auto Light/Dark Mode)
+# 📊 GitHub Stats
 
 <p align="center">
   <picture>
-    <source 
-      srcset="https://github-readme-stats.vercel.app/api?username=NajibOladosu&show_icons=true&theme=dark"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source 
-      srcset="https://github-readme-stats.vercel.app/api?username=NajibOladosu&show_icons=true&theme=default"
-      media="(prefers-color-scheme: light)"
-    />
+    <source srcset="https://github-readme-stats.vercel.app/api?username=NajibOladosu&show_icons=true&theme=dark" media="(prefers-color-scheme: dark)" />
     <img src="https://github-readme-stats.vercel.app/api?username=NajibOladosu&show_icons=true" />
   </picture>
 </p>
 
 <p align="center">
   <picture>
-    <source 
-      srcset="https://github-readme-streak-stats.herokuapp.com/?user=NajibOladosu&theme=dark"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source 
-      srcset="https://github-readme-streak-stats.herokuapp.com/?user=NajibOladosu&theme=default"
-      media="(prefers-color-scheme: light)"
-    />
+    <source srcset="https://github-readme-streak-stats.herokuapp.com/?user=NajibOladosu&theme=dark" media="(prefers-color-scheme: dark)" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=NajibOladosu" />
   </picture>
 </p>
 
 <p align="center">
   <picture>
-    <source 
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=NajibOladosu&layout=compact&theme=dark"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source 
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=NajibOladosu&layout=compact&theme=default"
-      media="(prefers-color-scheme: light)"
-    />
+    <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=NajibOladosu&layout=compact&theme=dark" media="(prefers-color-scheme: dark)" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NajibOladosu&layout=compact" />
   </picture>
 </p>
@@ -133,9 +89,9 @@ Clients send contracts → freelancers sign → work submitted → escrow releas
 
 # 🤖 What I'm Exploring
 - Multi-agent LLM systems  
-- Secure payment pipelines  
-- Open-source tools for developers  
-- Real-time collaboration systems  
+- Secure payments & global escrow  
+- AI tools that actually solve problems  
+- Real-time collaboration apps  
 
 ---
 
@@ -143,7 +99,7 @@ Clients send contracts → freelancers sign → work submitted → escrow releas
 
 - 🌐 GitHub: https://github.com/NajibOladosu  
 - 💼 LinkedIn: https://linkedin.com/in/najibaio  
-- ✉️ Email: **najiboladosu@gmail.com**
+- ✉️ Email: **najiboladosu@gmail.com**  
 
 ---
 
