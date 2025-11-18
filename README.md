@@ -24,17 +24,45 @@
 
 ## Trackly — AI Application Assistant
 
-| Overview | Preview |
-|---------|---------|
-| Trackly is your AI-powered companion for job & scholarship applications.<br><br>✔ Generates tailored answers using your documents<br>✔ Helps manage deadlines & statuses<br>✔ Keeps everything organized in one place<br><br>🔗 **Live:** https://trackly-chi.vercel.app/ | <a href="https://trackly-chi.vercel.app/"><img src="https://api.microlink.io/?url=https://trackly-chi.vercel.app/&screenshot=true&meta=false&embed=screenshot.url&&waitForTimeout=5" width="300"/></a> |
+<table>
+  <tr>
+    <td>
+      Trackly is your AI-powered companion for job & scholarship applications.<br><br>
+      ✔ Generates tailored answers using your documents<br>
+      ✔ Helps manage deadlines & statuses<br>
+      ✔ Keeps everything organized in one place<br><br>
+      🔗 <strong>Live:</strong>
+      <a href="https://trackly-chi.vercel.app/">https://trackly-chi.vercel.app/</a>
+    </td>
+    <td>
+      <a href="https://trackly-chi.vercel.app/">
+        <img src="https://api.microlink.io/?url=https://trackly-chi.vercel.app/&screenshot=true&meta=false&embed=screenshot.url&waitForTimeout=5" width="300"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## Pactify — Contract + Escrow Platform
 
-| Overview | Preview |
-|---------|---------|
-| Pactify enables seamless contract management & escrow for freelance work.<br><br>✔ Clients send contracts to freelancers<br>✔ Freelancers sign & submit work<br>✔ Stripe Connect handles the escrow release<br><br>🔗 **Live:** https://pactify-orcin.vercel.app/ | <a href="https://pactify-orcin.vercel.app/"><img src="https://api.microlink.io/?url=https://pactify-orcin.vercel.app/&screenshot=true&meta=false&embed=screenshot.url&waitForTimeout=5" width="300"/></a> |
+<table>
+  <tr>
+    <td>
+      Pactify enables seamless contract management & escrow for freelance work.<br><br>
+      ✔ Clients send contracts to freelancers<br>
+      ✔ Freelancers sign & submit work<br>
+      ✔ Stripe Connect handles the escrow release<br><br>
+      🔗 <strong>Live:</strong>
+      <a href="https://pactify-orcin.vercel.app/">https://pactify-orcin.vercel.app/</a>
+    </td>
+    <td>
+      <a href="https://pactify-orcin.vercel.app/">
+        <img src="https://api.microlink.io/?url=https://pactify-orcin.vercel.app/&screenshot=true&meta=false&embed=screenshot.url&waitForTimeout=5" width="300"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -45,9 +73,10 @@
 
 # GitHub Analytics
 
-| Stats | Streak |
-|-------|--------|
-| ![](https://github-readme-stats.vercel.app/api?username=NajibOladosu&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/> | ![](https://nirzak-streak-stats.vercel.app/?user=NajibOladosu&theme=dark&hide_border=true)<br/> |
+<div align="center" style="display: flex; gap: 60px; justify-content: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=NajibOladosu&theme=dark&hide_border=true&include_all_commits=false&count_private=false" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=NajibOladosu&theme=dark&hide_border=true" />
+</div>
 
 ---
 
