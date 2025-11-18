@@ -73,7 +73,7 @@
 
 # GitHub Analytics
 
-<div align="center" style="display: flex; gap: 60px; justify-content: center;">
+<div align="center" style="display: flex; gap: 20px; justify-content: center;">
   <img src="https://github-readme-stats.vercel.app/api?username=NajibOladosu&theme=dark&hide_border=true&include_all_commits=false&count_private=false" />
   <img src="https://nirzak-streak-stats.vercel.app/?user=NajibOladosu&theme=dark&hide_border=true" />
 </div>
