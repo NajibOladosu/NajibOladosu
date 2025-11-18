@@ -1,4 +1,4 @@
-<!-- PREMIUM GITHUB PROFILE README FOR NAJIB -->
+<!-- PREMIUM GITHUB PROFILE README FOR NAJIB OLADOSU -->
 
 <div align="center">
   
@@ -52,8 +52,11 @@
 ---
 
 # Top Languages
-
+<div align="center">
+  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NajibOladosu&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+</div>
 
 ---
 
