@@ -1,108 +1,96 @@
-# 🚀 Najib — Engineering the Future, One App at a Time  
-**_“I build AI-powered systems and seamless digital workflows that actually solve real problems.”_**
+<!-- PREMIUM GITHUB PROFILE README FOR NAJIB -->
+
+<div align="center">
+  
+# ⚡ Najib Oladosu  
+### **“Engineering smarter systems with AI, automation, and clean architecture.”**
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3000&pause=800&color=4A9CFF&center=true&vCenter=true&width=600&lines=Backend+Engineer;AI+Systems+Builder;Full-Stack+Problem+Solver;Creator+of+Trackly+%F0%9F%9A%80;Creator+of+Pactify+%F0%9F%94%91" />
+
+</div>
 
 ---
 
-## 👨‍💻 About Me
-
+# 🚀 About Me
 - Backend-first, full-stack when needed  
-- I build products that blend **AI, automation, payments, and real user workflows**  
-- Creator of **Trackly** and **Pactify**  
-- Passionate about clean architecture and shipping production-ready systems  
-- Writing more code than tweets — for now 😄  
+- Focused on AI-powered products, automation, and payments  
+- Builder of **Trackly** and **Pactify**  
+- Obsessed with clean architecture, DX, and fast iteration  
+- Aiming for scalable, global-ready systems  
 
 ---
 
-# 🚀 Featured Projects
+# 🎯 Featured Projects
 
-Below are **side-by-side** project descriptions with **live homepage previews**  
-(fully responsive and GitHub-friendly).
+## 🚀 Trackly — AI Application Assistant
 
----
-
-## 🎯 Trackly — AI Application Assistant
-
-| Description | Homepage Preview |
-|------------|------------------|
-| Trackly is an AI-powered job & scholarship application assistant. It helps you:<br><br>• Analyze documents and generate tailored answers<br>• Track deadlines, statuses & requirements<br>• Organize job & scholarship applications in one place<br><br>🔗 **Live:** https://trackly-chi.vercel.app/ | <a href="https://trackly-chi.vercel.app/"><img src="https://api.microlink.io/?url=https://trackly-chi.vercel.app/&screenshot=true&meta=false&embed=screenshot.url" width="300px" style="border-radius:10px"/></a> |
+| Overview | Preview |
+|---------|---------|
+| Trackly is your AI-powered companion for job & scholarship applications.<br><br>✔ Generates tailored answers using your documents<br>✔ Helps manage deadlines & statuses<br>✔ Keeps everything organized in one place<br><br>🔗 **Live:** https://trackly-chi.vercel.app/ | <a href="https://trackly-chi.vercel.app/"><img src="https://api.microlink.io/?url=https://trackly-chi.vercel.app/&screenshot=true&meta=false&embed=screenshot.url" width="300"/></a> |
 
 ---
 
-## 🤝 Pactify — Contract + Escrow Platform
+## 🔐 Pactify — Contract + Escrow Platform
 
-| Description | Homepage Preview |
-|------------|------------------|
-| Pactify is an end-to-end legal-tech platform enabling:<br><br>• Clients to send contracts to freelancers<br>• Freelancers to sign & submit project work<br>• Automated escrow releases via Stripe Connect<br><br>🔗 **Live:** https://pactify-orcin.vercel.app/ | <a href="https://pactify-orcin.vercel.app/"><img src="https://api.microlink.io/?url=https://pactify-orcin.vercel.app/&screenshot=true&meta=false&embed=screenshot.url" width="300px" style="border-radius:10px"/></a> |
+| Overview | Preview |
+|---------|---------|
+| Pactify enables seamless contract management & escrow for freelance work.<br><br>✔ Clients send contracts to freelancers<br>✔ Freelancers sign & submit work<br>✔ Stripe Connect handles the escrow release<br><br>🔗 **Live:** https://pactify-orcin.vercel.app/ | <a href="https://pactify-orcin.vercel.app/"><img src="https://api.microlink.io/?url=https://pactify-orcin.vercel.app/&screenshot=true&meta=false&embed=screenshot.url" width="300"/></a> |
 
 ---
 
 # 🧰 Tech Stack
 
-<details>
-  <summary><strong>🛠️ Click to expand</strong></summary>
-
-### **Backend**
-- Python • Django • FastAPI  
-- Node.js • Webhooks • REST APIs  
-- Stripe Connect • Escrow Logic  
-
-### **Frontend**
-- Next.js • React • Tailwind  
-
-### **Databases & Infra**
-- Supabase • PostgreSQL  
-- Vercel • GitHub Actions • Docker  
-
-### **AI / ML**
-- OpenAI GPT models  
-- Document embeddings & retrieval  
-- LLM-powered assistants  
-
-</details>
+**Languages:** Python, JavaScript, TypeScript  
+**Backend:** Django, FastAPI, Node.js  
+**Frontend:** React, Next.js, Tailwind  
+**AI / LLMs:** OpenAI, embeddings, RAG, custom prompts  
+**Databases:** Supabase, PostgreSQL  
+**Payments:** Stripe Connect, Webhooks, Escrow Logic  
+**Tools:** Docker, Vercel, GitHub Actions, Postman  
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Analytics
 
-<p align="center">
-  <picture>
-    <source srcset="https://github-readme-stats.vercel.app/api?username=NajibOladosu&show_icons=true&theme=dark" media="(prefers-color-scheme: dark)" />
-    <img src="https://github-readme-stats.vercel.app/api?username=NajibOladosu&show_icons=true" />
-  </picture>
-</p>
+| Stats | Streak |
+|-------|--------|
+| <picture><source srcset="https://github-readme-stats.vercel.app/api?username=NajibOladosu&show_icons=true&theme=dark" media="(prefers-color-scheme: dark)" /><img src="https://github-readme-stats.vercel.app/api?username=NajibOladosu&show_icons=true" width="400"/></picture> | <picture><source srcset="https://streak-stats.demolab.com?user=NajibOladosu&theme=dark" media="(prefers-color-scheme: dark)" /><img src="https://streak-stats.demolab.com?user=NajibOladosu" width="400"/></picture> |
 
-<p align="center">
-  <picture>
-    <source srcset="https://github-readme-streak-stats.herokuapp.com/?user=NajibOladosu&theme=dark" media="(prefers-color-scheme: dark)" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=NajibOladosu" />
-  </picture>
-</p>
+---
+
+# 🎨 Top Languages
 
 <p align="center">
   <picture>
     <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=NajibOladosu&layout=compact&theme=dark" media="(prefers-color-scheme: dark)" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NajibOladosu&layout=compact" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NajibOladosu&layout=compact" width="350" />
   </picture>
 </p>
 
 ---
 
 # 🤖 What I'm Exploring
-- Multi-agent LLM systems  
-- Secure payments & global escrow  
-- AI tools that actually solve problems  
-- Real-time collaboration apps  
+- Multi-agent LLM flows  
+- Building global-ready escrow pipelines  
+- Developer tools powered by AI  
+- Real-time apps + event-driven systems  
 
 ---
 
 # 📬 Contact Me
 
-- 🌐 GitHub: https://github.com/NajibOladosu  
-- 💼 LinkedIn: https://linkedin.com/in/najibaio  
-- ✉️ Email: **najiboladosu@gmail.com**  
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/NajibOladosu)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/najibaio)
+[![Email](https://img.shields.io/badge/Email-8A2BE2?style=for-the-badge&logo=gmail)](mailto:najiboladosu@gmail.com)
+
+</div>
 
 ---
 
-# ✨ Final Words  
-If you're building something with AI, automation, or payments —  
-**I’m always down to collaborate. Let’s build the next big thing.**
+<div align="center">
+  
+### ✨ _Let’s build something people will remember._
+
+</div>
