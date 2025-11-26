@@ -96,6 +96,26 @@
 
 ---
 
+![Profile Views](https://img.shields.io/badge/Profile_Views-Blue?style=for-the-badge)
+![Repos](https://img.shields.io/badge/Public_Repos-36-blue?style=for-the-badge)
+![Followers](https://img.shields.io/badge/Followers-?style=for-the-badge)
+![Stars](https://img.shields.io/badge/Stars-?style=for-the-badge)
+
+
+![](https://raw.githubusercontent.com/NajibOladosu/NajibOladosu/master/profile-summary-card-output/zenburn/0-profile-details.svg)
+![](https://raw.githubusercontent.com/NajibOladosu/NajibOladosu/master/profile-summary-card-output/zenburn/1-repos-per-language.svg)
+![](https://raw.githubusercontent.com/NajibOladosu/NajibOladosu/master/profile-summary-card-output/zenburn/2-most-commit-language.svg)
+![](https://raw.githubusercontent.com/NajibOladosu/NajibOladosu/master/profile-summary-card-output/zenburn/3-stats.svg)
+![](https://raw.githubusercontent.com/NajibOladosu/NajibOladosu/master/profile-summary-card-output/zenburn/4-productive-time.svg)
+
+
+![Metrics](https://raw.githubusercontent.com/NajibOladosu/NajibOladosu/main/github-metrics.svg)
+
+
+![](https://raw.githubusercontent.com/NajibOladosu/NajibOladosu/output/github-contribution-grid-snake.svg)
+
+---
+
 # What I'm Exploring
 - Multi-agent LLM flows  
 - Building global-ready escrow pipelines  
