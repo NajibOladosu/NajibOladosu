@@ -77,7 +77,7 @@
   <tr>
     <td>
       <img
-        src="https://github-readme-stats.vercel.app/api?username=NajibOladosu&theme=dark&hide_border=true&include_all_commits=false&count_private=false"
+        src="https://github-readme-stats-godkingjay.vercel.app/api?username=NajibOladosu&theme=dark&hide_border=true&include_all_commits=false&count_private=false"
       />
     </td>
     <td>
@@ -92,7 +92,7 @@
 
 # Top Languages
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=NajibOladosu&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=donut-vertical&langs_count=10)
+![](https://github-readme-stats-godkingjay.vercel.app/api/top-langs/?username=NajibOladosu&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=donut-vertical&langs_count=10)
 
 ---
 
