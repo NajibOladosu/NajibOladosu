@@ -77,7 +77,7 @@
   <tr>
     <td>
       <img
-        src="https://nirzak-streak-stats.vercel.app/api?username=NajibOladosu&theme=dark&hide_border=true&include_all_commits=false&count_private=false"
+        src="https://denvercoder1-github-readme-stats.vercel.app/api?username=NajibOladosu&theme=dark&hide_border=true&include_all_commits=false&count_private=false"
       />
     </td>
     <td>
@@ -92,27 +92,7 @@
 
 # Top Languages
 
-![](https://nirzak-streak-stats.vercel.app/api/top-langs/?username=NajibOladosu&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=donut-vertical&langs_count=10)
-
----
-
-![Profile Views](https://img.shields.io/badge/Profile_Views-Blue?style=for-the-badge)
-![Repos](https://img.shields.io/badge/Public_Repos-36-blue?style=for-the-badge)
-![Followers](https://img.shields.io/badge/Followers-?style=for-the-badge)
-![Stars](https://img.shields.io/badge/Stars-?style=for-the-badge)
-
-
-![](https://raw.githubusercontent.com/NajibOladosu/NajibOladosu/master/profile-summary-card-output/zenburn/0-profile-details.svg)
-![](https://raw.githubusercontent.com/NajibOladosu/NajibOladosu/master/profile-summary-card-output/zenburn/1-repos-per-language.svg)
-![](https://raw.githubusercontent.com/NajibOladosu/NajibOladosu/master/profile-summary-card-output/zenburn/2-most-commit-language.svg)
-![](https://raw.githubusercontent.com/NajibOladosu/NajibOladosu/master/profile-summary-card-output/zenburn/3-stats.svg)
-![](https://raw.githubusercontent.com/NajibOladosu/NajibOladosu/master/profile-summary-card-output/zenburn/4-productive-time.svg)
-
-
-![Metrics](https://raw.githubusercontent.com/NajibOladosu/NajibOladosu/main/github-metrics.svg)
-
-
-![](https://raw.githubusercontent.com/NajibOladosu/NajibOladosu/output/github-contribution-grid-snake.svg)
+![](https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=NajibOladosu&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=donut-vertical&langs_count=10)
 
 ---
 
