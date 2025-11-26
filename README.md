@@ -36,7 +36,7 @@
     </td>
     <td>
       <a href="https://trackly-chi.vercel.app/">
-        <img src="https://api.microlink.io/?url=https://trackly-chi.vercel.app/&screenshot=true&meta=false&embed=screenshot.url&waitForTimeout=5" width="300"/>
+        <img src="https://api.microlink.io/?url=https://trackly-chi.vercel.app/&screenshot=true&meta=false&embed=screenshot.url&waitForTimeout=15" width="300"/>
       </a>
     </td>
   </tr>
@@ -77,7 +77,7 @@
   <tr>
     <td>
       <img
-        src="https://github-readme-stats-git-master-orgs-github-readme-stats.vercel.app/api?username=NajibOladosu&theme=dark&hide_border=true&include_all_commits=false&count_private=false"
+        src="https://nirzak-streak-stats.vercel.app/api?username=NajibOladosu&theme=dark&hide_border=true&include_all_commits=false&count_private=false"
       />
     </td>
     <td>
@@ -92,7 +92,7 @@
 
 # Top Languages
 
-![](https://github-readme-stats-git-master-orgs-github-readme-stats.vercel.app/api/top-langs/?username=NajibOladosu&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=donut-vertical&langs_count=10)
+![](https://nirzak-streak-stats.vercel.app/api/top-langs/?username=NajibOladosu&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=donut-vertical&langs_count=10)
 
 ---
 
