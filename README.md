@@ -78,7 +78,7 @@
   <tr>
     <td>
       <img
-        src="https://denvercoder1-github-readme-stats.vercel.app/api?username=NajibOladosu&theme=dark&hide_border=true&include_all_commits=false&count_private=false"
+        src="https://denvercoder1-github-readme-stats.vercel.app/api?username=NajibOladosu&theme=dark&hide_border=true&include_all_commits=false&count_private=true"
       />
     </td>
     <td>
