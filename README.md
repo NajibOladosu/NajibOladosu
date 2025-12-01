@@ -11,7 +11,7 @@
 
 ---
 
-# About Me
+# About Me ![Static Badge](https://img.shields.io/badge/PORTFOLIO-najibaio.vercel.app-brightgreen?style=for-the-badge&labelColor=000&link=HTTPS%3A%2F%2FNAJIBAIO.VERCEL.APP&link=https%3A%2F%2Fnajibaio.vercel.app)
 - Backend-first, full-stack when needed  
 - Focused on AI-powered products, automation, and payments  
 - Builder of **Trackly** and **Pactify**  
