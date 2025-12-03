@@ -2,7 +2,7 @@
 
 <div align="center">
   
-# Najib Oladosu  
+# 👋 Hi, I'm Najib Oladosu
 ### **“Engineering smarter systems with AI, automation, and clean architecture.”**
 
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3000&pause=800&color=4A9CFF&center=true&vCenter=true&width=600&lines=Backend+Engineer;AI+Systems+Builder;Full-Stack+Problem+Solver;Creator+of+Trackly+%F0%9F%9A%80;Creator+of+Pactify+%F0%9F%94%91" />
@@ -113,6 +113,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/najibaio)
 [![Email](https://img.shields.io/badge/Email-8A2BE2?style=for-the-badge&logo=gmail)](mailto:najiboladosu@gmail.com)
 
+![](https://komarev.com/ghpvc/?username=NajibOladosu&color=brightgreen&style=for-the-badge)
 </div>
 
 ---
