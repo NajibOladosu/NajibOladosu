@@ -23,21 +23,21 @@
 
 # Featured Projects
 
-## Trackly — AI Application Assistant
+## ApplyOS — AI Application Operating System
 
 <table>
   <tr>
     <td>
-      Trackly is your AI-powered companion for job & scholarship applications.<br><br>
+      ApplyOS is your AI-powered companion for job & scholarship applications.<br><br>
       - Generates tailored answers using your documents<br>
       - Helps manage deadlines & statuses<br>
       - Keeps everything organized in one place<br><br>
       🔗 <strong>Live:</strong>
-      <a href="https://trackly-chi.vercel.app/">https://trackly-chi.vercel.app/</a>
+      <a href="https://applyos.io/">https://trackly-chi.vercel.app/</a>
     </td>
     <td>
-      <a href="https://trackly-chi.vercel.app/">
-        <img src="https://api.microlink.io/?url=https://trackly-chi.vercel.app/&screenshot=true&meta=false&embed=screenshot.url&waitForTimeout=15" width="300"/>
+      <a href="https://applyos.io/">
+        <img src="https://api.microlink.io/?url=https://applyos.io/&screenshot=true&meta=false&embed=screenshot.url&waitForTimeout=15" width="300"/>
       </a>
     </td>
   </tr>
