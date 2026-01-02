@@ -33,7 +33,7 @@
       - Helps manage deadlines & statuses<br>
       - Keeps everything organized in one place<br><br>
       🔗 <strong>Live:</strong>
-      <a href="https://applyos.io/">https://trackly-chi.vercel.app/</a>
+      <a href="https://applyos.io/">https://applyos.io/</a>
     </td>
     <td>
       <a href="https://applyos.io/">
