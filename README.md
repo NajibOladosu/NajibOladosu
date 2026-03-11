@@ -15,7 +15,7 @@
 
 - Backend-first, full-stack when needed  
 - Focused on AI-powered products, automation, and payments  
-- Builder of **Trackly** and **Pactify**  
+- Builder of **ApplyOS** and **Pactify**  
 - Obsessed with clean architecture, DX, and fast iteration  
 - Aiming for scalable, global-ready systems  
 
