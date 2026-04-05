@@ -83,7 +83,7 @@
     </td>
     <td>
       <img
-        src="https://nirzak-streak-stats.vercel.app/?user=NajibOladosu&theme=dark&hide_border=true"
+        src="https://streak-stats.demolab.com?user=NajibOladosu&theme=dark&hide_border=true"
       />
     </td>
   </tr>
