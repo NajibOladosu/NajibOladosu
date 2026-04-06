@@ -45,21 +45,21 @@
 
 ---
 
-## Pactify — Contract + Escrow Platform
+## AURA — Personal Health Intelligence
 
 <table>
   <tr>
     <td>
       Pactify enables seamless contract management & escrow for freelance work.<br><br>
-      - Clients send contracts to freelancers<br>
-      - Freelancers sign & submit work<br>
-      - Stripe Connect handles the escrow release<br><br>
+      - AI-powered medical triage app<br>
+      - Gemini 3.0 Pro, PII scrubbing, geospatial grid, voice/image input<br>
+      - Released (v3.3)<br><br>
       🔗 <strong>Live:</strong>
-      <a href="https://pactify-orcin.vercel.app/">https://pactify-orcin.vercel.app/</a>
+      <a href="https://auratriage.vercel.app/">https://auratriage.vercel.app/</a>
     </td>
     <td>
-      <a href="https://pactify-orcin.vercel.app/">
-        <img src="https://api.microlink.io/?url=https://pactify-orcin.vercel.app/&screenshot=true&meta=false&embed=screenshot.url&waitForTimeout=5" width="300"/>
+      <a href="https://auratriage.vercel.app/">
+        <img src="https://api.microlink.io/?url=https://auratriage.vercel.app/&screenshot=true&meta=false&embed=screenshot.url&waitForTimeout=5" width="300"/>
       </a>
     </td>
   </tr>
