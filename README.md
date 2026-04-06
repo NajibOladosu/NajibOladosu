@@ -50,7 +50,7 @@
 <table>
   <tr>
     <td>
-      Pactify enables seamless contract management & escrow for freelance work.<br><br>
+      AI-powered medical triage application using Gemini Flash models to assess symptoms and provide structured risk-level evaluations and actionable care guidance.<br><br>
       - AI-powered medical triage app<br>
       - Gemini 3.0 Pro, PII scrubbing, geospatial grid, voice/image input<br>
       - Released (v3.3)<br><br>
