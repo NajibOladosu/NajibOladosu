@@ -25,9 +25,9 @@
 
 ## ApplyOS — AI Application Operating System
 
-<table>
+<table width="100%">
   <tr>
-    <td>
+    <td width="65%">
       ApplyOS is your AI-powered companion for job & scholarship applications.<br><br>
       - Generates tailored answers using your documents<br>
       - Helps manage deadlines & statuses<br>
@@ -35,9 +35,9 @@
       🔗 <strong>Live:</strong>
       <a href="https://applyos.io/">https://applyos.io/</a>
     </td>
-    <td>
+    <td width="35%" align="center">
       <a href="https://applyos.io/">
-        <img src="https://api.microlink.io/?url=https://applyos.io/&screenshot=true&meta=false&embed=screenshot.url&waitForTimeout=15" width="300"/>
+        <img src="https://api.microlink.io/?url=https://applyos.io/&screenshot=true&meta=false&embed=screenshot.url&waitForTimeout=500" width="300"/>
       </a>
     </td>
   </tr>
@@ -47,21 +47,19 @@
 
 ## AURA — Personal Health Intelligence
 
-<table>
+<table width="100%">
   <tr>
-    <td>
-      AI-powered medical triage application using Gemini Flash models<br>
-      to assess symptoms and provide structured risk-level evaluations<br>
-      and actionable care guidance.<br><br>
+    <td width="65%">
+      AI-powered medical triage application using Gemini Flash models to assess symptoms and provide structured risk-level evaluations and actionable care guidance.<br><br>
       - AI-powered medical triage app<br>
       - Gemini 3.0 Pro, PII scrubbing, geospatial grid, voice/image input<br>
       - Released (v3.3)<br><br>
       🔗 <strong>Live:</strong>
       <a href="https://auratriage.vercel.app/">https://auratriage.vercel.app/</a>
     </td>
-    <td>
+    <td width="35%" align="center">
       <a href="https://auratriage.vercel.app/">
-        <img src="https://api.microlink.io/?url=https://auratriage.vercel.app/&screenshot=true&meta=false&embed=screenshot.url&waitForTimeout=5" width="300"/>
+        <img src="https://api.microlink.io/?url=https://auratriage.vercel.app/&screenshot=true&meta=false&embed=screenshot.url&waitForTimeout=500" width="300"/>
       </a>
     </td>
   </tr>
