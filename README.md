@@ -23,12 +23,12 @@
 
 # Featured Projects
 
-## ApplyOS — AI Application Operating System
+## [ApplyOS — AI Application Operating System](https://github.com/NajibOladosu/applyos)
 
 <table width="100%">
   <tr>
     <td width="65%">
-      ApplyOS is your AI-powered companion for job & scholarship applications.<br><br>
+      AI-powered application assistant that helps users manage job and scholarship applications with intelligent document analysis.<br><br>
       - Generates tailored answers using your documents<br>
       - Helps manage deadlines & statuses<br>
       - Keeps everything organized in one place<br><br>
@@ -45,7 +45,7 @@
 
 ---
 
-## AURA — Personal Health Intelligence
+## [AURA — Personal Health Intelligence](https://github.com/NajibOladosu/aura)
 
 <table width="100%">
   <tr>
