@@ -52,16 +52,25 @@ My work centres on backend systems, databases, authentication, practical AI inte
 ## Toolkit
 
 <p>
-  <img src="https://img.shields.io/badge/Python-0f172a?style=flat-square&logo=python&logoColor=ffd43b" alt="Python" />
-  <img src="https://img.shields.io/badge/TypeScript-0f172a?style=flat-square&logo=typescript&logoColor=3178c6" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-0f172a?style=flat-square&logo=react&logoColor=61dafb" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-0f172a?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Node.js-0f172a?style=flat-square&logo=nodedotjs&logoColor=5fa04e" alt="Node.js" />
-  <img src="https://img.shields.io/badge/FastAPI-0f172a?style=flat-square&logo=fastapi&logoColor=009688" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/Django-0f172a?style=flat-square&logo=django&logoColor=44b78b" alt="Django" />
-  <img src="https://img.shields.io/badge/PostgreSQL-0f172a?style=flat-square&logo=postgresql&logoColor=4169e1" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Supabase-0f172a?style=flat-square&logo=supabase&logoColor=3ecf8e" alt="Supabase" />
-  <img src="https://img.shields.io/badge/Docker-0f172a?style=flat-square&logo=docker&logoColor=2496ed" alt="Docker" />
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-111827?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/Docker-0DB7ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=ff9900" alt="AWS" />
+  <img src="https://img.shields.io/badge/Vercel-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=f05032" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2671E5?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright" />
+  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
 </p>
 
 <br />
