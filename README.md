@@ -64,19 +64,19 @@ Next.js and TypeScript portfolio for an SEO content writer covering anime, manga
 
 ## [APSORE](https://apsore.org)
 
-<table width="100%"><tr><td width="60%" valign="top"><strong>Private repository</strong><br><br>🔗 <strong>Live:</strong> <a href="https://apsore.org">apsore.org</a></td><td width="40%" align="center"><a href="https://apsore.org"><img src="https://api.microlink.io/?url=https%3A%2F%2Fapsore.org%2F&screenshot=true&meta=false&embed=screenshot.url&waitForTimeout=1000" width="300" alt="Live APSORE header preview" /></a></td></tr></table>
+<table width="100%"><tr><td width="60%" valign="top"><strong>Private repository</strong><br><br>A live product with a private implementation. The public site demonstrates the product experience while its underlying work remains private.<br><br>🔗 <strong>Live:</strong> <a href="https://apsore.org">apsore.org</a></td><td width="40%" align="center"><a href="https://apsore.org"><img src="https://api.microlink.io/?url=https%3A%2F%2Fapsore.org%2F&screenshot=true&meta=false&embed=screenshot.url&waitForTimeout=1000" width="300" alt="Live APSORE header preview" /></a></td></tr></table>
 
 ---
 
 ## [Pintevact](https://pintevact.com)
 
-<table width="100%"><tr><td width="60%" valign="top"><strong>Private repository</strong><br><br>🔗 <strong>Live:</strong> <a href="https://pintevact.com">pintevact.com</a></td><td width="40%" align="center"><a href="https://pintevact.com"><img src="https://api.microlink.io/?url=https%3A%2F%2Fpintevact.com%2F&screenshot=true&meta=false&embed=screenshot.url&waitForTimeout=1000" width="300" alt="Live Pintevact header preview" /></a></td></tr></table>
+<table width="100%"><tr><td width="60%" valign="top"><strong>Private repository</strong><br><br>A live product with a private implementation. The public site demonstrates the product experience while its underlying work remains private.<br><br>🔗 <strong>Live:</strong> <a href="https://pintevact.com">pintevact.com</a></td><td width="40%" align="center"><a href="https://pintevact.com"><img src="https://api.microlink.io/?url=https%3A%2F%2Fpintevact.com%2F&screenshot=true&meta=false&embed=screenshot.url&waitForTimeout=1000" width="300" alt="Live Pintevact header preview" /></a></td></tr></table>
 
 ---
 
 ## [IWE](https://iwe.ng)
 
-<table width="100%"><tr><td width="60%" valign="top"><strong>Private repository</strong><br><br>🔗 <strong>Live:</strong> <a href="https://iwe.ng">iwe.ng</a></td><td width="40%" align="center"><a href="https://iwe.ng"><img src="https://api.microlink.io/?url=https%3A%2F%2Fiwe.ng%2F&screenshot=true&meta=false&embed=screenshot.url&waitForTimeout=1000" width="300" alt="Live IWE header preview" /></a></td></tr></table>
+<table width="100%"><tr><td width="60%" valign="top"><strong>Private repository</strong><br><br>A live product with a private implementation. The public site demonstrates the product experience while its underlying work remains private.<br><br>🔗 <strong>Live:</strong> <a href="https://iwe.ng">iwe.ng</a></td><td width="40%" align="center"><a href="https://iwe.ng"><img src="https://api.microlink.io/?url=https%3A%2F%2Fiwe.ng%2F&screenshot=true&meta=false&embed=screenshot.url&waitForTimeout=1000" width="300" alt="Live IWE header preview" /></a></td></tr></table>
 
 ---
 
