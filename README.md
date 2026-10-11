@@ -49,6 +49,23 @@ My work centres on backend systems, databases, authentication, practical AI inte
 
 <br />
 
+## Private repositories
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>04 — APSORE</h3>
+      <p><strong>Private repository</strong></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>05 — Pintevact</h3>
+      <p><strong>Private repository</strong></p>
+    </td>
+  </tr>
+</table>
+
+<br />
+
 ## Toolkit
 
 <p>
