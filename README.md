@@ -26,6 +26,8 @@ My work centres on backend systems, databases, authentication, practical AI inte
 
 At Turing, I evaluated AI-generated Python and JavaScript code, wrote tests and reference implementations, and reviewed technical solutions. My background also includes network solution engineering at Huawei and a network engineering internship at O'dua Telecoms. I hold a B.Sc. in Electrical & Electronics Engineering from the University of Ibadan.
 
+I also write about engineering decisions in my projects. [How ApplyOS keeps AI feedback tied to the right resume version](https://blog.applyos.io/resume-version-ai-feedback) covers API checks, PostgreSQL constraints and the limits of the current design.
+
 ---
 
 # Featured Projects
