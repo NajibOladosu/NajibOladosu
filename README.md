@@ -55,8 +55,8 @@ Informational health-triage application using text, voice, and image inputs, str
 <table width="100%"><tr><td width="60%" valign="top">
 Next.js and TypeScript portfolio for an SEO content writer covering anime, manga, and gaming.<br><br>
 <strong>Built around:</strong> editorial presentation, clear content discovery, and a responsive reading experience.<br><br>
-🔗 <strong>Live:</strong> <a href="https://nabil-portfolio-silk.vercel.app/">nabil-portfolio-silk.vercel.app</a>
-</td><td width="40%" align="center"><a href="https://nabil-portfolio-silk.vercel.app/"><img src="https://api.microlink.io/?url=https%3A%2F%2Fnabil-portfolio-silk.vercel.app%2F&screenshot=true&meta=false&embed=screenshot.url&waitForTimeout=1000" width="300" alt="Live Editorial Portfolio header preview" /></a></td></tr></table>
+🔗 <strong>Live:</strong> <a href="https://nabiloladosu.vercel.app/">nabil-portfolio-silk.vercel.app</a>
+</td><td width="40%" align="center"><a href="https://nabiloladosu.vercel.app/"><img src="https://api.microlink.io/?url=https%3A%2F%2Fnabiloladosu.vercel.app%2F&screenshot=true&meta=false&embed=screenshot.url&waitForTimeout=1000" width="300" alt="Live Editorial Portfolio header preview" /></a></td></tr></table>
 
 ---
 
